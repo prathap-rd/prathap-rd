@@ -1,16 +1,20 @@
-## Hi there 👋
+# Prathap R
 
-<!--
-**prathap-rd/prathap-rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+R&D Engineer | Robotics | Embedded Systems | Applied AI
 
-Here are some ideas to get you started:
+I design and build real-world robotics and embedded systems with a focus on
+hardware–software integration and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Focus Areas
+- ESP32 / ESP8266 / Raspberry Pi
+- Robotics motion control (DC motors, servos, PCA9685)
+- AI-based voice and vision systems
+- Classroom-tested STEM engineering projects
+
+## Tech Stack
+Python • C/C++ • MicroPython  
+Arduino •ESP8266 • ESP32 • Raspberry Pi
+
+## Contact  
+Email: prathap.rd1425@gmail.com
