@@ -7,7 +7,7 @@ hardware–software integration and automation.
 
 
 ## Focus Areas
-- ESP32 / ESP8266 / Raspberry Pi
+- Arduino / ESP8266 / ESP32 / Raspberry Pi
 - Robotics motion control (DC motors, servos, PCA9685)
 - AI-based voice and vision systems
 - Classroom-tested STEM engineering projects
