@@ -14,7 +14,7 @@ hardware–software integration and automation.
 
 ## Tech Stack
 Python • C/C++ • MicroPython  
-Arduino •ESP8266 • ESP32 • Raspberry Pi
+Arduino • ESP8266 • ESP32 • Raspberry Pi
 
 ## Contact  
 Email: prathap.rd1425@gmail.com
